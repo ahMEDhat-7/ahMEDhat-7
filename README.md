@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Junior Backend Developer
+- 🎓 Junior Software Developer
 - 💻 Passionate about **Backend, DevOps, Security and Cloud Computing**
 - 🌍 Open to collaborating on backend, security, and cloud-based projects
 
