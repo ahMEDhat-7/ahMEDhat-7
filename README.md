@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # I'm Ahmed Medhat  
-**Full Stack Developer | Node.js • React • TypeScript**
+**Software Engineer**
 
 ---
 
