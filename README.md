@@ -51,13 +51,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ---
 
-## 📈 GitHub Stats  
-
-[![Ahmed's GitHub Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=ahmedhat-7&show_icons=true&theme=tokyonight&cache_seconds=7200)](https://github-readme-stats.vercel.app/api?username=ahmedhat-7&show_icons=true&theme=tokyonight&cache_seconds=7200
-)
-![Top Languages](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=ahmedhat-7&layout=compact&theme=tokyonight&cache_seconds=7200)
-
----
 
 ## 🔗 Let's Connect  
 
