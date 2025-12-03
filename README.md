@@ -53,8 +53,8 @@
 
 ## 📈 GitHub Stats  
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedhat-7&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhat-7&layout=compact&theme=tokyonight&hide_border=false)
+![Ahmed's GitHub Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=ahmedhat-7&show_icons=true&theme=tokyonight&cache_seconds=7200)
+![Top Languages](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=ahmedhat-7&layout=compact&theme=tokyonight&cache_seconds=7200)
 
 ---
 
